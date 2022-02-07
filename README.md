@@ -79,7 +79,12 @@ Adding a product in web page to see in the app
 ![FourImage](https://user-images.githubusercontent.com/43099030/130369652-de4d871a-712c-4575-9bd2-405b33317174.png)
 ![FiveImage](https://user-images.githubusercontent.com/43099030/130369654-bb1aa610-c538-44f2-b92d-042cf71855cb.png)
 
-Thats all thanks for watching
+## Autores ✒️
 
+* **Paul Guillen Acuña** - *Mi Repositorio* - [PaulGuillen](https://github.com/PaulGuillen?tab=repositories)
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (MIT License) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 
