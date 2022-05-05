@@ -1,6 +1,6 @@
 # EcommerceRestaurant
 
-In this project i will show u guys how it works. A simple Ecommerce with an admin panel made in javascript
+In this project i will show u guys how it works. A simple Ecommerce with an admin panel made in javascript.
 
 I hope u guys like it.
 
