@@ -52,11 +52,11 @@ Buying a product in the app
 
 How to see a sell as an admin in a webpage
 
-1.Register in WebPage
+1.Register in WebPage.
 
-2.Seeing details in web page
+2.Seeing details in web page.
 
-3.Wacthing products buyed from the app
+3.Wacthing products buyed from the app.
 
 ![FirstImage](https://user-images.githubusercontent.com/43099030/130369584-5ec1db3c-702b-45d8-89b8-3d29176ed311.png)
 ![SecondImage](https://user-images.githubusercontent.com/43099030/130369585-6717b1ee-0d45-4b79-90b8-a361dc57e86f.png)
