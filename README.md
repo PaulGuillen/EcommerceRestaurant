@@ -4,9 +4,9 @@ In this project i will show u guys how it works. A simple Ecommerce with an admi
 
 I hope u guys like it.
 
-Drive Link project app : https://drive.google.com/file/d/1_WvdkJ8hvNb38fmYb2rlB6jy5ej1wmf-/view?usp=sharing
+Drive Link project app :https://drive.google.com/file/d/1_WvdkJ8hvNb38fmYb2rlB6jy5ej1wmf-/view?usp=sharing
 
-Drive Link project web : https://drive.google.com/file/d/1_WvdkJ8hvNb38fmYb2rlB6jy5ej1wmf-/view?usp=sharing
+Drive Link project web :https://drive.google.com/file/d/1_WvdkJ8hvNb38fmYb2rlB6jy5ej1wmf-/view?usp=sharing
 
 ---------------------------------------------------------------------------------------------------------------------
 
